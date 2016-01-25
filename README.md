@@ -40,7 +40,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 Accidentally typed a "." next to row title, which would display the title with a . after the name - caught my mistake and corrected it to properly display the titles.
 
 ## License
